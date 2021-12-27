@@ -1,5 +1,3 @@
-package JavaCore.Module5.task29;
-
 class Level {
     private int width;
     private int height;
